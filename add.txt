@@ -1,12 +1,13 @@
 #include<stdio.h>
 int main()
 {
-int a,b,c,d,e,f;
+int a,b,c,d,e,f,g;
  printf("enter two numbers")
 c=a+b;
 d=a-b;
 e=a*b;
 f=a/b;
+g=a%b;
 getch()
 }
 
